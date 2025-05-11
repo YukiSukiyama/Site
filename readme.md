@@ -11,7 +11,7 @@ Se você encontrar algum erro ou tiver sugestões de melhoria, fique à vontade 
 
 ## 🔗 Acesse o site
 
-👉 [https://YukiSukiyama.github.io/seu-repositorio](https://YukiSukiyama.github.io/seu-repositorio)  
+👉 [https://yukisukiyama.github.io/Site/] (https://yukisukiyama.github.io/Site/)
 *(Substitua com o link correto, se necessário.)*
 
 ## 📫 Contato
